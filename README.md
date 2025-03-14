@@ -13,7 +13,7 @@ Chinmay Hegde (chinmay.h@nyu.edu)
 ## Dataset unpackage and load
 The dataset is available for download [here](http://www.cs.toronto.edu/~kriz/cifar.html).
 
-Make sure you unpackage the dataset file and pick all pickle files with Jupyter notes code file in one folder.
+Make sure you unpackage the dataset file and pick out all pickle files. They should stay with Jupyter notes code file in one folder.
 
 ## Introduction  
 This project implements an optimized ResNet architecture with Squeeze-and-Excitation (SE) blocks to enhance feature learning. The model is trained on the CIFAR-10 dataset, leveraging advanced data augmentation, regularization techniques, and adaptive learning rate schedules to improve generalization and robustness.  
