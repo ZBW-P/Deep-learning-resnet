@@ -7,7 +7,7 @@ Qin Huai,
 Li Shihao, 
 Yin Wufei
 
-Introductor:
+Instructor:
 Chinmay Hegde (chinmay.h@nyu.edu)
 
 ## Dataset unpackage and load
