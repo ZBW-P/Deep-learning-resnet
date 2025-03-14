@@ -1,4 +1,4 @@
-# Deep-learning-resnet
+# Deep-learning-resnet (Group: Deep fried AI)
 
 ## Dataset
 The dataset is available for download [here](http://www.cs.toronto.edu/~kriz/cifar.html).
