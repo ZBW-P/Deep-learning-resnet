@@ -8,7 +8,7 @@ Li Shihao,
 Yin Wufei
 
 Introductor:
-Chinmay Hegde (chinmay.h@nyu.edu
+Chinmay Hegde (chinmay.h@nyu.edu)
 
 ## Dataset unpackage and load
 The dataset is available for download [here](http://www.cs.toronto.edu/~kriz/cifar.html).
