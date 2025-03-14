@@ -1,18 +1,19 @@
 # Deep-learning-resnet (Group: Deep fried AI)
 Describtion:
-kaggle competition for designing a resnet neural network to do image classificaiton (CIFAR 10 classification).
+kaggle competition for designing a resnet neural network to do image classificaiton (CIFAR 10 classification) in NYU Deep Learning Course.
 
 Team Members:
 Qin Huai,
 Li Shihao, 
 Yin Wufei
 
+Introductor:
+Chinmay Hegde (chinmay.h@nyu.edu
+
 ## Dataset unpackage and load
 The dataset is available for download [here](http://www.cs.toronto.edu/~kriz/cifar.html).
 
 Make sure you unpackage the dataset file and pick all pickle files with Jupyter notes code file in one folder.
-
-# ResNet with Squeeze-and-Excitation for CIFAR-10 Classification  
 
 ## Introduction  
 This project implements an optimized ResNet architecture with Squeeze-and-Excitation (SE) blocks to enhance feature learning. The model is trained on the CIFAR-10 dataset, leveraging advanced data augmentation, regularization techniques, and adaptive learning rate schedules to improve generalization and robustness.  
